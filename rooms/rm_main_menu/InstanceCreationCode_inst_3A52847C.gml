@@ -1,1 +1,3 @@
-mode = "quit";
+size = "medium";
+function = "quit";
+content = "QUIT";

@@ -2,7 +2,7 @@
     "id": "b272c737-cd95-4433-a7a9-644845b06247",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_button_temp",
+    "name": "spr_button_big_temp",
     "For3D": false,
     "HTile": false,
     "VTile": false,

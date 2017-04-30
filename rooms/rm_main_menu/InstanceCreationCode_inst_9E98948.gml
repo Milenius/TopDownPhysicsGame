@@ -1,1 +1,3 @@
-mode = "options";
+size = "medium";
+function = "options";
+content = "OPTIONS";

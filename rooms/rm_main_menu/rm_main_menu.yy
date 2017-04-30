@@ -48,10 +48,36 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "id": "bde38f2d-da66-4ac3-b2fc-a20f8820ffa0",
+            "id": "11b4144d-6410-406a-b6fa-a4e4d7fb323d",
             "modelName": "GMRInstanceLayer",
             "mvc": "1.0",
             "depth": 100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+                
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "name": "Shadows",
+            "userdefined_depth": false,
+            "visible": true,
+            "instances": [
+                
+            ]
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "id": "bde38f2d-da66-4ac3-b2fc-a20f8820ffa0",
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -102,7 +128,7 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_3938DD4C",
-                    "x": 608,
+                    "x": 640,
                     "y": 416,
                     "IsDnD": false,
                     "colour": {
@@ -126,7 +152,7 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_65C19644",
-                    "x": 608,
+                    "x": 640,
                     "y": 608,
                     "IsDnD": false,
                     "colour": {
@@ -150,7 +176,7 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_9E98948",
-                    "x": 336,
+                    "x": 368,
                     "y": 800,
                     "IsDnD": false,
                     "colour": {
@@ -174,7 +200,7 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_3A52847C",
-                    "x": 880,
+                    "x": 912,
                     "y": 800,
                     "IsDnD": false,
                     "colour": {
@@ -192,39 +218,13 @@
             ]
         },
         {
-            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "id": "11b4144d-6410-406a-b6fa-a4e4d7fb323d",
-            "modelName": "GMRInstanceLayer",
-            "mvc": "1.0",
-            "depth": 200,
-            "grid_x": 32,
-            "grid_y": 32,
-            "hierarchyFrozen": false,
-            "hierarchyVisible": true,
-            "inheritLayerDepth": false,
-            "inheritLayerSettings": false,
-            "inheritSubLayers": false,
-            "inheritVisibility": false,
-            "layers": [
-                
-            ],
-            "m_parentID": "00000000-0000-0000-0000-000000000000",
-            "m_serialiseFrozen": false,
-            "name": "Shadows",
-            "userdefined_depth": false,
-            "visible": true,
-            "instances": [
-                
-            ]
-        },
-        {
             "__type": "GMRAssetLayer_Model:#YoYoStudio.MVCFormat",
             "id": "ca5502af-36d7-48f5-a2cf-97e630c3f7d2",
             "modelName": "GMRAssetLayer",
             "mvc": "1.0",
             "depth": 300,
-            "grid_x": 32,
-            "grid_y": 32,
+            "grid_x": 16,
+            "grid_y": 16,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,

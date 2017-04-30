@@ -1,1 +1,3 @@
-mode = "options";
+size = "big";
+function = "back";
+content = "BACK";

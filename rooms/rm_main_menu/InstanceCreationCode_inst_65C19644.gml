@@ -1,1 +1,3 @@
-mode = "levels";
+size = "big";
+function = "levels";
+content = "LEVEL SELECT";
