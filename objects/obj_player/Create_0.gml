@@ -7,3 +7,4 @@ spd = 10;
 
 clicks_left = 5;
 alarm_triggered = false;
+draw_only = false;
