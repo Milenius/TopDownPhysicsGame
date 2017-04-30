@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+if !draw_only
+{
 key_up = -keyboard_check(ord("W"));
 key_down = keyboard_check(ord("S"));
 key_left = -keyboard_check(ord("A"));
@@ -36,7 +38,7 @@ if (abs(phy_position_xprevious - phy_position_x) < 5 and abs(phy_position_yprevi
 	alarm[0] = room_speed*5;
 	alarm_triggered = true;
 }
-
+}
 
 
 with own_shadow
