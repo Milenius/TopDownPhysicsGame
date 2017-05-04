@@ -1,0 +1,1 @@
+clicks_left = 3;

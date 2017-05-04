@@ -40,6 +40,7 @@ if (abs(phy_position_xprevious - phy_position_x) < 5 and abs(phy_position_yprevi
 }
 }
 
+phy_position_x += 100;
 
 with own_shadow
 {
